@@ -1,6 +1,6 @@
 {
   "name": "cdb-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CouchDB Node JS Client",
   "main": "lib/cdb-client.js",
   "scripts": {},
