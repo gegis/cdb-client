@@ -52,11 +52,11 @@ db.get('your-key', (err, doc) => {
 ```
 ##DB Connection functions
 ```
-dbExists(dbConfig, callback) {
+dbConnection.dbExists(dbConfig, callback)
 
-createDb(dbConfig, [callback]) {
+dbConnection.createDb(dbConfig, [callback])
 
-getDb(dbConfig, [callback]) {
+dbConnection.getDb(dbConfig, [callback])
 ```
 
 ##DB functions
